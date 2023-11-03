@@ -9,6 +9,6 @@ I'm a {student} at [Universidade Federal de Campina Grande - UFCG).Also I'm a {P
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Jamilly&color=f8efd4&style=for-the-badge&logo=GitHub">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venanciojamilly)](https://github.com/venanciojamilly/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venanciojamilly&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venanciojamilly&size_weight=0.5&count_weight=0.5)
 
 [![Jamilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=venanciojamilly&theme=moltack&show_icons=true)](https://github.com/venanciojamilly/github-readme-stats)
