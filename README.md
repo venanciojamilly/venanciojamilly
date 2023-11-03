@@ -12,4 +12,4 @@ I'm a {student} at [Universidade Federal de Campina Grande - UFCG).Also I'm a st
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Jamilly&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-[![Jamilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=venanciojamilly)](https://github.com/venanciojamilly/github-readme-stats)
+[![Jamilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=venanciojamilly&theme=dark&show_icons=true)](https://github.com/venanciojamilly/github-readme-stats)
