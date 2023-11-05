@@ -10,3 +10,4 @@ I'm a {student} at [Universidade Federal de Campina Grande - UFCG).
 
 
 [![Jamilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=venanciojamilly&theme=moltack&show_icons=true)](https://github.com/venanciojamilly/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venanciojamilly)](https://github.com/venanciojamilly/github-readme-stats)
