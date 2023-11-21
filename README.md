@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamilly-ven%C3%A2ncio/)](https://www.linkedin.com/in/jamilly-ven%C3%A2ncio/)
 
 ### About me
-I'm a {student} at [Universidade Federal de Campina Grande - UFCG).
+I'm a {student} at [Universidade Federal de Campina Grande - UFCG].
 
 
 
