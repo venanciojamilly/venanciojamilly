@@ -61,6 +61,6 @@
 
 ### 📈 Stats
 <p align="center">
-  img src="https://github-readme-streak-stats.herokuapp.com/?user=venanciojamilly&theme=vision-friendly-dark" alt="venanciojamilly" height="165pt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venanciojamilly&theme=vision-friendly-dark" alt="venanciojamilly" height="165pt" />
 
 </p>
